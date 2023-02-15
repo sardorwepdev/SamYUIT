@@ -1,0 +1,91 @@
+.container{
+    width: 1024;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.list{
+list-style: none;
+display: flex;
+}
+.list li{
+    margin-right:40px ;
+}
+.logo{
+    width: 60px;
+   
+    display: flex;
+}
+.hero-content{
+    
+}
+.contact,
+.name{
+    width: 50%;
+}
+.umumiy-con{
+    display: flex;
+}
+.name{
+ 
+  
+  
+}
+form input,
+.textarea{
+padding: 15px;
+margin-top: 10px;
+width: 90%;
+
+
+}
+.you-name{
+    display: flex;
+    width: 70%;
+}
+.inp{
+    margin-top: 12px ;
+    width:600px;
+}
+.butto :active{
+    color: brown;
+    background-color: black;
+    width: 150px;
+    
+
+}
+.button{
+background-color: aqua;
+border-radius: 5px;
+width: 120px;
+height: 30px;
+}
+
+
+.kar{
+    width: 100%;
+    margin-top: 20px;
+    border: solid red;
+}
+.끝{
+    border:3px solid red;
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+.끝 p{
+
+padding-left: 10px;
+}
+.lor1{
+    margin-left: 10px;
+}
+.karta:active{
+  color: red;
+}
+ li{
+    margin-left: 100px;
+}
